@@ -2,6 +2,10 @@
 适用于Windows 11的0jcxg0人脸识别模块驱动文件。可解决在全新安装的Windows 11系统上无法正常运行的问题。
 
 
+![WindowsHello](./WindowsHello.jpg)
+![WindowsHello](./丝印.jpg)
+
+
 ## 背景介绍
 
 0jcxg0是一款价格低廉的Windows Hello人脸识别模块。然而，在全新安装的Windows 11系统上，该模块的驱动程序经常无法正常工作，即使反复卸载和重装驱动也无济于事。经过分析，发现该驱动程序最初发布于2017年，相对较老，且该模块的设备本身并不支持升级到Windows 11。
